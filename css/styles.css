@@ -323,6 +323,7 @@ margin-bottom: 72px;
     display: flex;
     align-items: center;
     justify-content: center;
+    fill: #f4f4fd;
 }
 .thumb-team{
     padding: 32px 0;
