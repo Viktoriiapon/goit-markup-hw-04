@@ -319,9 +319,6 @@ margin-bottom: 72px;
     background-color:#404bbf;
 }
 .team-soc-icon{
-    display: flex;
-    align-items: center;
-    justify-content: center;
     fill:#f4f4fd;
 }
 .thumb-team{
