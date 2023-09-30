@@ -390,16 +390,12 @@ transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 .portfolio-cover-wrap{
     position: relative; 
     overflow: hidden;
-    position: absolute;
-    top: 0;
-    padding-top: 40px;
-    padding-right: 32px;
-    padding-left: 32px;
+   
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
-    background: var(--IRIS, #4D5AE5);
+   
+   
 }
 
 .portfolio-wrap-text{
@@ -413,7 +409,16 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 height: 100%;
 transform: translateY(100%);
+position: absolute;
+top: 0;
+padding-top: 40px;
+padding-right: 32px;
+padding-left: 32px;
+background-color: var(--IRIS, #4D5AE5);
+height: 100%;
+width: 100%;
 }
+
 
 .portfolio-img {
 }
