@@ -497,7 +497,7 @@ max-width: 264px;
     
 }
 .footer-soc{
-    display: flex;
+    display: block;
     align-items: center;
    
      
@@ -508,8 +508,9 @@ max-width: 264px;
 }
     
 .soc-list{
+
     display: flex;
-    gap: 24px;
+    gap: 16px;
     align-items: center;
     justify-content: center; 
 }
