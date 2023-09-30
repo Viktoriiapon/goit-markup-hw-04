@@ -316,13 +316,13 @@ margin-bottom: 72px;
 .team-soc-link:hover,
 .team-soc-link:focus
 {
-    background-color: #404bbf;
+    background-color:#404bbf;
 }
 .team-soc-icon{
     display: flex;
     align-items: center;
     justify-content: center;
-    fill: color #f4f4fd;
+    fill:#f4f4fd;
 }
 .thumb-team{
     padding: 32px 0;
