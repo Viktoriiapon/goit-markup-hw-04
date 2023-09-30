@@ -458,11 +458,8 @@ padding: 32px 16px;
    
 }
 .container .footer{
-    
     display: flex;  
-    margin: 0 auto;
     align-items: baseline;
-margin-right: 120px;
 }
 .footer-logo {
 color: #4d5ae5;
